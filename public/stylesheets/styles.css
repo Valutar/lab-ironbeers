@@ -5,3 +5,20 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+nav {
+    background-color: #2081c3;
+    text-decoration: none;
+    padding: 1%;
+    height: 20px;
+    color: black;
+}
+
+
+footer {
+    background-color: #0a2c42;
+    text-decoration: none;
+    padding: 1%;
+    height: 20px;
+    color: white
+}
